@@ -80,9 +80,6 @@ button {
   white-space: nowrap;
 }
 
-.logo span {
-  color: var(--accent);
-}
 
 .nav-links {
   list-style: none;
